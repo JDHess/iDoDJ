@@ -16,6 +16,36 @@
 		6E33AE6F29C7E497008017EB /* iDoDJTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AE6E29C7E497008017EB /* iDoDJTests.swift */; };
 		6E33AE7929C7E497008017EB /* iDoDJUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AE7829C7E497008017EB /* iDoDJUITests.swift */; };
 		6E33AE7B29C7E497008017EB /* iDoDJUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AE7A29C7E497008017EB /* iDoDJUITestsLaunchTests.swift */; };
+		6E33AE8A29C7E50F008017EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AE8929C7E50F008017EB /* ContentView.swift */; };
+		6E33AE8B29C7E50F008017EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AE8929C7E50F008017EB /* ContentView.swift */; };
+		6E33AE8C29C7E50F008017EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AE8929C7E50F008017EB /* ContentView.swift */; };
+		6E33AE9529C7E554008017EB /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9129C7E554008017EB /* Ubuntu-Regular.ttf */; };
+		6E33AE9629C7E554008017EB /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9129C7E554008017EB /* Ubuntu-Regular.ttf */; };
+		6E33AE9729C7E554008017EB /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9129C7E554008017EB /* Ubuntu-Regular.ttf */; };
+		6E33AE9829C7E554008017EB /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9229C7E554008017EB /* Ubuntu-Bold.ttf */; };
+		6E33AE9929C7E554008017EB /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9229C7E554008017EB /* Ubuntu-Bold.ttf */; };
+		6E33AE9A29C7E554008017EB /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9229C7E554008017EB /* Ubuntu-Bold.ttf */; };
+		6E33AE9B29C7E554008017EB /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9329C7E554008017EB /* Ubuntu-Light.ttf */; };
+		6E33AE9C29C7E554008017EB /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9329C7E554008017EB /* Ubuntu-Light.ttf */; };
+		6E33AE9D29C7E554008017EB /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9329C7E554008017EB /* Ubuntu-Light.ttf */; };
+		6E33AE9E29C7E554008017EB /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9429C7E554008017EB /* Ubuntu-Medium.ttf */; };
+		6E33AE9F29C7E554008017EB /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9429C7E554008017EB /* Ubuntu-Medium.ttf */; };
+		6E33AEA029C7E554008017EB /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E33AE9429C7E554008017EB /* Ubuntu-Medium.ttf */; };
+		6E33AEA429C7E55E008017EB /* TaskCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEA129C7E55E008017EB /* TaskCategory.swift */; };
+		6E33AEA529C7E55E008017EB /* TaskCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEA129C7E55E008017EB /* TaskCategory.swift */; };
+		6E33AEA629C7E55E008017EB /* TaskCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEA129C7E55E008017EB /* TaskCategory.swift */; };
+		6E33AEA729C7E55E008017EB /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEA229C7E55E008017EB /* Task.swift */; };
+		6E33AEA829C7E55E008017EB /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEA229C7E55E008017EB /* Task.swift */; };
+		6E33AEA929C7E55E008017EB /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEA229C7E55E008017EB /* Task.swift */; };
+		6E33AEAA29C7E55E008017EB /* Ubuntu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEA329C7E55E008017EB /* Ubuntu.swift */; };
+		6E33AEAB29C7E55E008017EB /* Ubuntu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEA329C7E55E008017EB /* Ubuntu.swift */; };
+		6E33AEAC29C7E55E008017EB /* Ubuntu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEA329C7E55E008017EB /* Ubuntu.swift */; };
+		6E33AEAF29C7E568008017EB /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEAD29C7E568008017EB /* AddTaskView.swift */; };
+		6E33AEB029C7E568008017EB /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEAD29C7E568008017EB /* AddTaskView.swift */; };
+		6E33AEB129C7E568008017EB /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEAD29C7E568008017EB /* AddTaskView.swift */; };
+		6E33AEB229C7E568008017EB /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEAE29C7E568008017EB /* Home.swift */; };
+		6E33AEB329C7E568008017EB /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEAE29C7E568008017EB /* Home.swift */; };
+		6E33AEB429C7E568008017EB /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E33AEAE29C7E568008017EB /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +79,17 @@
 		6E33AE7429C7E497008017EB /* iDoDJUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iDoDJUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E33AE7829C7E497008017EB /* iDoDJUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDoDJUITests.swift; sourceTree = "<group>"; };
 		6E33AE7A29C7E497008017EB /* iDoDJUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDoDJUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6E33AE8829C7E4E7008017EB /* iDoDJ.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = iDoDJ.entitlements; sourceTree = "<group>"; };
+		6E33AE8929C7E50F008017EB /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6E33AE9129C7E554008017EB /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
+		6E33AE9229C7E554008017EB /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
+		6E33AE9329C7E554008017EB /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Light.ttf"; sourceTree = "<group>"; };
+		6E33AE9429C7E554008017EB /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
+		6E33AEA129C7E55E008017EB /* TaskCategory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskCategory.swift; sourceTree = "<group>"; };
+		6E33AEA229C7E55E008017EB /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		6E33AEA329C7E55E008017EB /* Ubuntu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ubuntu.swift; sourceTree = "<group>"; };
+		6E33AEAD29C7E568008017EB /* AddTaskView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddTaskView.swift; sourceTree = "<group>"; };
+		6E33AEAE29C7E568008017EB /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +140,10 @@
 		6E33AE5629C7E492008017EB /* iDoDJ */ = {
 			isa = PBXGroup;
 			children = (
+				6E33AE8929C7E50F008017EB /* ContentView.swift */,
+				6E33AE9029C7E542008017EB /* Fonts */,
+				6E33AE8E29C7E526008017EB /* Models */,
+				6E33AE8D29C7E518008017EB /* View */,
 				6E33AE5729C7E492008017EB /* AppDelegate.swift */,
 				6E33AE5929C7E492008017EB /* SceneDelegate.swift */,
 				6E33AE5B29C7E492008017EB /* ViewController.swift */,
@@ -106,6 +151,7 @@
 				6E33AE6029C7E496008017EB /* Assets.xcassets */,
 				6E33AE6229C7E496008017EB /* LaunchScreen.storyboard */,
 				6E33AE6529C7E496008017EB /* Info.plist */,
+				6E33AE8829C7E4E7008017EB /* iDoDJ.entitlements */,
 			);
 			path = iDoDJ;
 			sourceTree = "<group>";
@@ -125,6 +171,36 @@
 				6E33AE7A29C7E497008017EB /* iDoDJUITestsLaunchTests.swift */,
 			);
 			path = iDoDJUITests;
+			sourceTree = "<group>";
+		};
+		6E33AE8D29C7E518008017EB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6E33AEAD29C7E568008017EB /* AddTaskView.swift */,
+				6E33AEAE29C7E568008017EB /* Home.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6E33AE8E29C7E526008017EB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				6E33AEA229C7E55E008017EB /* Task.swift */,
+				6E33AEA129C7E55E008017EB /* TaskCategory.swift */,
+				6E33AEA329C7E55E008017EB /* Ubuntu.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		6E33AE9029C7E542008017EB /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				6E33AE9229C7E554008017EB /* Ubuntu-Bold.ttf */,
+				6E33AE9329C7E554008017EB /* Ubuntu-Light.ttf */,
+				6E33AE9429C7E554008017EB /* Ubuntu-Medium.ttf */,
+				6E33AE9129C7E554008017EB /* Ubuntu-Regular.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +307,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E33AE9829C7E554008017EB /* Ubuntu-Bold.ttf in Resources */,
+				6E33AE9529C7E554008017EB /* Ubuntu-Regular.ttf in Resources */,
+				6E33AE9E29C7E554008017EB /* Ubuntu-Medium.ttf in Resources */,
 				6E33AE6429C7E496008017EB /* LaunchScreen.storyboard in Resources */,
 				6E33AE6129C7E496008017EB /* Assets.xcassets in Resources */,
+				6E33AE9B29C7E554008017EB /* Ubuntu-Light.ttf in Resources */,
 				6E33AE5F29C7E492008017EB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -241,6 +321,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E33AE9929C7E554008017EB /* Ubuntu-Bold.ttf in Resources */,
+				6E33AE9C29C7E554008017EB /* Ubuntu-Light.ttf in Resources */,
+				6E33AE9F29C7E554008017EB /* Ubuntu-Medium.ttf in Resources */,
+				6E33AE9629C7E554008017EB /* Ubuntu-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +332,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E33AE9A29C7E554008017EB /* Ubuntu-Bold.ttf in Resources */,
+				6E33AE9D29C7E554008017EB /* Ubuntu-Light.ttf in Resources */,
+				6E33AEA029C7E554008017EB /* Ubuntu-Medium.ttf in Resources */,
+				6E33AE9729C7E554008017EB /* Ubuntu-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,8 +346,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E33AEA429C7E55E008017EB /* TaskCategory.swift in Sources */,
+				6E33AEAA29C7E55E008017EB /* Ubuntu.swift in Sources */,
 				6E33AE5C29C7E492008017EB /* ViewController.swift in Sources */,
+				6E33AEAF29C7E568008017EB /* AddTaskView.swift in Sources */,
+				6E33AEB229C7E568008017EB /* Home.swift in Sources */,
 				6E33AE5829C7E492008017EB /* AppDelegate.swift in Sources */,
+				6E33AE8A29C7E50F008017EB /* ContentView.swift in Sources */,
+				6E33AEA729C7E55E008017EB /* Task.swift in Sources */,
 				6E33AE5A29C7E492008017EB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -268,7 +362,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E33AEA829C7E55E008017EB /* Task.swift in Sources */,
+				6E33AEA529C7E55E008017EB /* TaskCategory.swift in Sources */,
+				6E33AE8B29C7E50F008017EB /* ContentView.swift in Sources */,
+				6E33AEB029C7E568008017EB /* AddTaskView.swift in Sources */,
+				6E33AEAB29C7E55E008017EB /* Ubuntu.swift in Sources */,
 				6E33AE6F29C7E497008017EB /* iDoDJTests.swift in Sources */,
+				6E33AEB329C7E568008017EB /* Home.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,7 +377,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E33AE7929C7E497008017EB /* iDoDJUITests.swift in Sources */,
+				6E33AEB129C7E568008017EB /* AddTaskView.swift in Sources */,
 				6E33AE7B29C7E497008017EB /* iDoDJUITestsLaunchTests.swift in Sources */,
+				6E33AEAC29C7E55E008017EB /* Ubuntu.swift in Sources */,
+				6E33AEA929C7E55E008017EB /* Task.swift in Sources */,
+				6E33AEA629C7E55E008017EB /* TaskCategory.swift in Sources */,
+				6E33AEB429C7E568008017EB /* Home.swift in Sources */,
+				6E33AE8C29C7E50F008017EB /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
